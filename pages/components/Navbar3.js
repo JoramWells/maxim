@@ -4,7 +4,7 @@ const data = [
   {
     id: 0,
     text: "Entertainment",
-    href: "https://www.maxim.com/entertainment/",
+    href: "/entertainment/",
   },
   {
     id: 1,
