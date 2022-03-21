@@ -1,15 +1,14 @@
 import Head from "next/head";
 import Link from "next/link";
-import AfterTrending from "./components/AfterTrending";
-import Carousel from "./components/Carousel";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import HorizontalCard from "./components/HorizontalCard";
-import Items from "./components/Items";
-import Navbar from "./components/Navbar";
-import Navbar2 from "./components/Navbar2";
-import Navbar3 from "./components/Navbar3";
-import Trending from "./components/Trending";
+import AfterTrending from "../components/AfterTrending";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
+import HorizontalCard from "../components/HorizontalCard";
+import Items from "../components/Items";
+import Navbar from "../components/Navbar";
+import Navbar2 from "../components/Navbar2";
+import Navbar3 from "../components/Navbar3";
+import Trending from "../components/Trending";
 
 export default function Home() {
   return (

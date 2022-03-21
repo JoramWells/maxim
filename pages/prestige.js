@@ -1,7 +1,5 @@
 import React from "react";
-import Card from "./components/Card";
-import styled from "styled-components";
-import Sidebar from "./components/Sidebar";
+import Sidebar from "../components/Sidebar";
 
 export default function prestige() {
   return (

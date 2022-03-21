@@ -1,11 +1,11 @@
 import React from "react";
 import Card from "./components/Card";
 import styled from "styled-components";
-import Sidebar from "./components/Sidebar";
-import Navbar from "./components/Navbar";
-import Navbar2 from "./components/Navbar2";
-import Navbar3 from "./components/Navbar3";
-import Footer from "./components/Footer";
+import Sidebar from "../components/Sidebar";
+import Navbar from "../components/Navbar";
+import Navbar2 from "../components/Navbar2";
+import Navbar3 from "../components/Navbar3";
+import Footer from "../components/Footer";
 
 const data = [
   {
